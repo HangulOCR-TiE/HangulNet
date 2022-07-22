@@ -11,7 +11,7 @@ class-imbalance and target-class selecting issues in Hangul OCR.
 |AI Hub test-set|[link](https://drive.google.com/file/d/1D4tN_69CRWFPi286fDbxYvntKvo9OkF8/view?usp=sharing)|
 |MLT-h test-set|[link](https://drive.google.com/file/d/1b2PgWI1PybtU4epeljIROpcC_Vo9gEgl/view?usp=sharing)|
 |SFW test-set|[link](https://drive.google.com/file/d/1oBFPk3Ke8iLsUfiMAgxCjK_GO-41gAN3/view?usp=sharing)|
-|Unseen Syllable test-set|[link](https://drive.google.com/file/d/163mrhOq2Pom0Y4CDHC7LqCHHo5yGnvgE/view?usp=sharing)|
+|Unseen Characters test-set|[link](https://drive.google.com/file/d/163mrhOq2Pom0Y4CDHC7LqCHHo5yGnvgE/view?usp=sharing)|
 
 AI Hub train-set shall be downloaded from the official website. We cropped text regions for training and this dataset will be available soon.
 
@@ -25,5 +25,5 @@ AI Hub train-set shall be downloaded from the official website. We cropped text 
 #### * `SFW` 
 <img width="300" alt="스크린샷 2022-07-21 오전 11 42 29" src="https://user-images.githubusercontent.com/8290383/180118543-7fd931a8-35b1-480e-8c33-53ccb91baef9.png">
 
-#### * `Unseen Syllable`
+#### * `Unseen Characters`
 <img width="70" src="https://user-images.githubusercontent.com/34879386/177490243-ae37b295-3a2d-45d4-a8a7-9c4cf34e9510.png"> <img width="70" src="https://user-images.githubusercontent.com/34879386/177490292-99662d7c-62ed-46c1-9f45-ab99e0843312.png"> <img width="70" src="https://user-images.githubusercontent.com/34879386/177490316-f4df4070-e6fe-4f6e-80ea-587fea025410.png">
